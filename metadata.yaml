@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '3257'
     url: http://www.gutenberg.org/2009/agents/3257
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39645#Highlife-in-New-York--a-series-of-letters-to-Mr.-Zephariah-Slick-
 gutenberg_issued: '2012-05-07'
 gutenberg_type: Text
 identifiers:
